@@ -1,0 +1,14 @@
+{
+  "name": "fuanadb",
+  "version": "1.0.0",
+  "description": "FuanaDB project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Waqar",
+  "license": "ISC",
+  "dependencies": {
+    "faunadb": "^4.0.0"
+  }
+}
